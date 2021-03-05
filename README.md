@@ -19,7 +19,7 @@ The implementation of Weight of Evidence (WOE) encoding and Information Value (I
 
 ## Quickstart
 
-Please check the <a href="https://github.com/albertuskelvin/weight-of-evidence-spark/blob/master/woe_iv/main.py">main</a> module for the example.
+Please check the <a href="https://github.com/albertuskelvin/weight-of-evidence-spark/blob/main/woe_iv/main.py">main</a> module for the example.
 
 ### A) Prepare the data
 
